@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinFormsApp2": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CHUDO_OBUV_MYSQL": "Server=88.218.168.195;Database= isp-41_suhov_ks ;User ID=isp-41_suhov_ks;Password=isp-41_suhov_ks;"
+      }
+    }
+  }
+}
